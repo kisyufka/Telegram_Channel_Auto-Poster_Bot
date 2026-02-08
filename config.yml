@@ -1,0 +1,10 @@
+telegram:
+  token: "YOUR_BOT_TOKEN_HERE"           # From @BotFather
+  admin_id: YOUR_USER_ID                 # Your Telegram user ID
+
+posts:
+  timezone_offset: 3                     # MSK timezone (UTC+3)
+  random_offset_minutes: 60              # Randomize posts ±60 minutes
+
+storage:
+  data_file: "bot_data.pkl"              # Data storage file
