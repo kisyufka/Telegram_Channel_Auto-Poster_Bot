@@ -66,7 +66,7 @@ A powerful Telegram bot that automates content posting with intelligent scheduli
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/telegram-auto-poster.git
+git clone https://github.com/kisyufka/Telegram_Channel_Auto-Poster_Bot.git
 cd telegram-auto-poster
 ```
 
@@ -287,7 +287,7 @@ Admin → Manage Users → Assign Channels to Moderator
 ### Local Development
 ```bash
 # Development setup
-git clone https://github.com/yourusername/telegram-auto-poster.git
+git clone https://github.com/kisyufka/Telegram_Channel_Auto-Poster_Bot.git
 cd telegram-auto-poster
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
@@ -508,7 +508,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/yourusername/telegram-auto-poster.git
+git clone https://github.com/kisyufka/Telegram_Channel_Auto-Poster_Bot.git
 cd telegram-auto-poster
 ```
 
@@ -729,7 +729,7 @@ storage:
 ### Локальная разработка
 ```bash
 # Настройка для разработки
-git clone https://github.com/yourusername/telegram-auto-poster.git
+git clone https://github.com/kisyufka/Telegram_Channel_Auto-Poster_Bot.git
 cd telegram-auto-poster
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
