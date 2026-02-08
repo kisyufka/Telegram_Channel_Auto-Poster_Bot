@@ -1,0 +1,24 @@
+# Telegram Auto-Poster Bot Requirements
+# Generated: 2024
+
+# Telegram Bot API wrapper - основная библиотека
+pyTelegramBotAPI==4.19.1
+
+# YAML configuration parser - для config.yml
+PyYAML==6.0.1
+
+# Дата и время (уже в стандартной библиотеке, но указываем для ясности)
+# python-dateutil==2.8.2 (опционально, если понадобится)
+
+# Для работы с pickle (встроен в Python)
+# --- встроенные библиотеки ---
+# os, logging, random, threading, datetime, pickle
+
+# Медиа и файлы
+# mimetypes - встроен в Python
+
+# --- Минимальные версии для совместимости ---
+Python>=3.8
+
+# --- Рекомендуемые версии для тестирования ---
+# Протестировано с Python 3.8, 3.9, 3.10, 3.11
